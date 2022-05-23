@@ -1,6 +1,8 @@
 import os
 
-os.chdir('E:\Blender\Blend My NFT\Export\Blend_My_NFTs Output\Complete_Collection\Cardano_metaData')
+path = ''
+
+os.chdir(path)
 
 print(os.getcwd())
 
